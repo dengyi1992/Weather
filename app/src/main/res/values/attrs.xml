@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WeatherItem">
+    	<attr name="android:icon"/>
+    	<attr name="android:temp"/>
+        <attr name="android:weather"/>
+    </declare-styleable>
+</resources>
